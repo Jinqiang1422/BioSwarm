@@ -53,7 +53,12 @@ TBD
 8. [A Cooperative Bearing-Rate Approach for Observability-Enhanced Target Motion Estimation](https://ieeexplore.ieee.org/document/11128217). Zheng, Canlun and Guo, Hanqing and Zhao, Shiyu. *2025 IEEE International Conference on Robotics and Automation (ICRA)*, 2025.
 9. [Bioinspired Bearing–Based Target Enclosing Control for Unmanned Aerial Vehicle Swarm](https://ieeexplore.ieee.org/document/10697318). Deng, Yimin and Zhu, Baitao and Duan, Haibin. *IEEE/ASME Transactions on Mechatronics*, 2025.
 10. [Hawks steer attacks using a guidance system tuned for close pursuit of erratically manoeuvring targets](https://www.nature.com/articles/s41467-019-10454-z). Brighton, Caroline H and Taylor, Graham K. *Nature communications*, 2019.
-
+### From Wolf Packs Encirclement and Hunting to Cooperative Strike, Surveillance, and Tracking
+1. [Unmanned aerial systems coordinate target allocation based on wolf behaviors](https://link.springer.com/article/10.1007/s11432-018-9587-0). Duan, Haibin, et al. *Science China. Information Sciences*, 2019.
+2. [Bio-inspired adaptive formation tracking control for swarm systems with application to UAV swarm systems](https://www.sciencedirect.com/science/article/abs/pii/S0925231221007268). Xie, Yuxin, et al. *Neurocomputing*, 2021.
+3. [UAV Target Roundup Strategy Based on Wolf Pack Hunting Behavior](https://link.springer.com/chapter/10.1007/978-981-99-2356-4_40). Wang, Tong, et al. *Conference on Computer Supported Cooperative Work and Social Computing*. Singapore: Springer Nature Singapore*, 2022.
+4. [Pursuit-evasion games of multiple cooperative pursuers and an evader: A biological-inspired perspective](https://www.sciencedirect.com/science/article/abs/pii/S100757042200079X). Wang, Jianan, et al. *Communications in Nonlinear Science and Numerical Simulation*, 2022.
+5. [Multi-player pursuit–evasion games with one superior evader](https://www.sciencedirect.com/science/article/abs/pii/S0005109816301352). Chen, Jie, et al. *Automatica*, 2016.
 ## From Self-organizing Search and Foraging to Cooperative Exploration and Transportation
 
 ## From Sheepherding to Externally-Driven Formation Control
