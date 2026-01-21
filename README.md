@@ -72,6 +72,8 @@ TBD
 10. [A novel reinforcement learning based grey wolf optimizer algorithm for unmanned aerial vehicles (UAVs) path planning](https://www.sciencedirect.com/science/article/abs/pii/S1568494620300399). Qu, Chengzhi, et al., *Applied soft computing*, 2020.
 11. [Hybrid chaos game and grey wolf optimization algorithms for UAV path planning](https://www.sciencedirect.com/science/article/abs/pii/S0307904X2500054X). Yang, Jianqiang, et al.,  *Applied Mathematical Modelling*, 2025.
 ## From Self-organizing Search and Foraging to Cooperative Exploration and Transportation
+1.[verage path planning of heterogeneous unmanned aerial vehicles based on ant colony system](https://www.degruyterbrill.com/document/doi/10.1515/9780295802695/html). Chen, J., Ling, F., Zhang, Y., You, T., Liu, Y., Du, X. *Swarm and Evolutionary Computation*, 2022.
+
 
 ## From Shepherding to Externally-Driven Formation Control
 1. [Robot sheepdog project achieves automatic flock control](https://autonomy.cs.sfu.ca/doc/vaughan_sab98.pdf). Vaughan, Richard *et al.* *From Animals to Animats 5 (SAB Proceedings)*, pp. 489–493, 1998.
