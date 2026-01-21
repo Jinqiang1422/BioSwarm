@@ -73,26 +73,33 @@ TBD
 11. [Hybrid chaos game and grey wolf optimization algorithms for UAV path planning](https://www.sciencedirect.com/science/article/abs/pii/S0307904X2500054X). Yang, Jianqiang, et al.,  *Applied Mathematical Modelling*, 2025.
 ## From Self-organizing Search and Foraging to Cooperative Exploration and Transportation
 1.[Cverage path planning of heterogeneous unmanned aerial vehicles based on ant colony system](https://www.sciencedirect.com/science/article/abs/pii/S221065022100167X)). Chen, J., Ling, F., Zhang, Y., You, T., Liu, Y., Du, X. *Swarm and Evolutionary Computation*, 2022.
+
 2.[Surveillance task optimized by evolutionary shared tabu inverted ant cellular automata model for swarm robotics navigation control](https://www.sciencedirect.com/science/article/pii/S266672072200025X). Lopes, H.J., Lima, D.A. *Results in Control and Optimization*, 2022.
+
 3.[Evolving adaptive pheromone path planning mechanism](https://dl.acm.org/doi/abs/10.1145/544741.544841). Sauter, J.A., Matthews, R., Dyke Parunak, H., Brueckner, S. *. In: Proceedings of the First International Joint Conference on Autonomous Agents and Multiagent Systems: Part 1*, 2002.
+
 4.[Digital pheromones for autonomous coordination of swarming uav’](https://arc.aiaa.org/doi/abs/10.2514/6.2002-3446). Parunak, H.V., Purcell, M., O’Connell, R. *In: 1st UAV Conference*, 2002.
+
 5.[A ellular automata ant memory model of foraging in a swarm of robots](https://www.sciencedirect.com/science/article/abs/pii/S221065022100167X). Wilson, S., Buffin, A., Pratt, S.C., Berman, S.  *Applied Mathematical Modelling*, 2017.
+
 6. [Multi-robot replication of ant collective towing behaviours](https://royalsocietypublishing.org/rsos/article/5/10/180409/93823/Multi-robot-replication-of-ant-collective-towing). Peterson, Rolf O., and Paolo Ciucci., *Royal Society open science*, 2018.
-7. [Ant-inspired control strategies for collective transport by dynamic multi-robot teams with temporary leaders](https://www.proquest.com/openview/1e8760f268bc05945af33b2bac9df553/1?pq-origsite=gscholar&cbl=18750&diss=y). Gah, E., *Arizona State University*,  2020.
-8. [Multi-robot system based on model of wolf hunting behavior to emulate wolf and elk interactions](https://ieeexplore.ieee.org/abstract/document/5723472). Madden, John D., Ronald C. Arkin, and Daniel R. MacNulty, *In Proceedings of IEEE International Conference on Robotics and​Biomimetics*, Tianjin, 2011. 
-9. [Ant-inspired strategies for multi-robot collaborative transportation-an ockham’s razor](https://www.sciencedirect.com/science/article/pii/S2405896321023120). Barawkar, S., Kumar, M., *IFAC-PapersOnLine *, 2021.
-10. [Recherches sur les Moeurs des Fourmis Indig`enes](https://www.biodiversitylibrary.org/item/105488). Huber, P., *Fischbacher*, 1861.
-11. [Observations on ants, bees, and wasps.—part viii](https://archive.org/details/biostor-284056).  Lubbock, J.,  *Zoological Journal of the Linnean Society*, 1881.
-12. [La reconstruction du nid et les coordinations interindividuelles chez bellicositermes natalensis et cubitermes sp. la th´eorie de la stigmergie](https://link.springer.com/article/10.1007/BF02223791).  Grass´e, P.,  *Elsevier *, 2013.
-13. [Sigmergy 3.0: From ants to economies.](https://www.sciencedirect.com/science/article/abs/pii/S1389041712000368).  Lubbock, J.,  *Zoological Journal of the Linnean Society*, 1881.
-14. [Chemical communication among workers of the fire ant solenopsis saevissima (fr. smith) 1. the organization of mass-foraging.](https://www.sciencedirect.com/science/article/abs/pii/0003347262901410). Doyle, M.J., Marsh, L.,  * Animal behaviour*, 1962.
-15. [Collective patterns and decision-making](https://www.tandfonline.com/doi/abs/10.1080/08927014.1989.9525500).  Deneubourg, J.-L., Goss, S. ,  *Ethology Ecology & Evolution*, 1989.
-16. [Random behaviour, amplification processes and number of participants: How they contribute to the foraging properties of ants](https://www.sciencedirect.com/science/article/abs/pii/0167278986902393).   Deneubourg, J.L., Aron, S., Goss, S., Pasteels, J.,  *hysica D: nonlinear phenomena*, 1986.
-17. [Scavenging bypheidole pallidulaa key for under-standing decision-making systems in ants](https://www.sciencedirect.com/science/article/abs/pii/S000334729690305X).  Detrain, C., Deneubourg, J.-L. ,  *Animal behaviour*, 1997.
-18. [From nonlinearity to optimality: pheromone trail foraging by ants](https://www.sciencedirect.com/science/article/abs/pii/S000334720392224X).  Sumpter, D.J., Beekman, M.,  * Animal behaviour*, 2009.
-19. [Negative feedback enables fast and flexible collective decision- making in ants](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0044501).  Grueter, C., Schuerch, R., Czaczkes, T.J., Taylor, K., Durance, T., Jones, S.M.,
+7. 
+8. [Ant-inspired control strategies for collective transport by dynamic multi-robot teams with temporary leaders](https://www.proquest.com/openview/1e8760f268bc05945af33b2bac9df553/1?pq-origsite=gscholar&cbl=18750&diss=y). Gah, E., *Arizona State University*,  2020.
+9. 
+10. [Multi-robot system based on model of wolf hunting behavior to emulate wolf and elk interactions](https://ieeexplore.ieee.org/abstract/document/5723472). Madden, John D., Ronald C. Arkin, and Daniel R. MacNulty, *In Proceedings of IEEE International Conference on Robotics and​Biomimetics*, Tianjin, 2011. 
+11. [Ant-inspired strategies for multi-robot collaborative transportation-an ockham’s razor](https://www.sciencedirect.com/science/article/pii/S2405896321023120). Barawkar, S., Kumar, M., *IFAC-PapersOnLine *, 2021.
+12. [Recherches sur les Moeurs des Fourmis Indig`enes](https://www.biodiversitylibrary.org/item/105488). Huber, P., *Fischbacher*, 1861.
+13. [Observations on ants, bees, and wasps.—part viii](https://archive.org/details/biostor-284056).  Lubbock, J.,  *Zoological Journal of the Linnean Society*, 1881.
+14. [La reconstruction du nid et les coordinations interindividuelles chez bellicositermes natalensis et cubitermes sp. la th´eorie de la stigmergie](https://link.springer.com/article/10.1007/BF02223791).  Grass´e, P.,  *Elsevier *, 2013.
+15. [Sigmergy 3.0: From ants to economies.](https://www.sciencedirect.com/science/article/abs/pii/S1389041712000368).  Lubbock, J.,  *Zoological Journal of the Linnean Society*, 1881.
+16. [Chemical communication among workers of the fire ant solenopsis saevissima (fr. smith) 1. the organization of mass-foraging.](https://www.sciencedirect.com/science/article/abs/pii/0003347262901410). Doyle, M.J., Marsh, L.,  * Animal behaviour*, 1962.
+17. [Collective patterns and decision-making](https://www.tandfonline.com/doi/abs/10.1080/08927014.1989.9525500).  Deneubourg, J.-L., Goss, S. ,  *Ethology Ecology & Evolution*, 1989.
+18. [Random behaviour, amplification processes and number of participants: How they contribute to the foraging properties of ants](https://www.sciencedirect.com/science/article/abs/pii/0167278986902393).   Deneubourg, J.L., Aron, S., Goss, S., Pasteels, J.,  *hysica D: nonlinear phenomena*, 1986.
+19. [Scavenging bypheidole pallidulaa key for under-standing decision-making systems in ants](https://www.sciencedirect.com/science/article/abs/pii/S000334729690305X).  Detrain, C., Deneubourg, J.-L. ,  *Animal behaviour*, 1997.
+20. [From nonlinearity to optimality: pheromone trail foraging by ants](https://www.sciencedirect.com/science/article/abs/pii/S000334720392224X).  Sumpter, D.J., Beekman, M.,  * Animal behaviour*, 2009.
+21. [Negative feedback enables fast and flexible collective decision- making in ants](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0044501).  Grueter, C., Schuerch, R., Czaczkes, T.J., Taylor, K., Durance, T., Jones, S.M.,
 Ratnieks, F.L.,  *PLOS ONE*, 2012.
-20. [How to not get stuck—Negative feedback due to crowding maintains flexibility in ant foraging](https://www.sciencedirect.com/science/article/abs/pii/S0022519314003981).  Czaczkes, T.J.,  *Journal of Theoretical Biology*, 1989.
+22. [How to not get stuck—Negative feedback due to crowding maintains flexibility in ant foraging](https://www.sciencedirect.com/science/article/abs/pii/S0022519314003981).  Czaczkes, T.J.,  *Journal of Theoretical Biology*, 1989.
 
 
 ## From Shepherding to Externally-Driven Formation Control
