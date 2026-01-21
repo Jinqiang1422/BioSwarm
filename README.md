@@ -73,7 +73,29 @@ TBD
 11. [Hybrid chaos game and grey wolf optimization algorithms for UAV path planning](https://www.sciencedirect.com/science/article/abs/pii/S0307904X2500054X). Yang, Jianqiang, et al.,  *Applied Mathematical Modelling*, 2025.
 ## From Self-organizing Search and Foraging to Cooperative Exploration and Transportation
 
-## From Sheepherding to Externally-Driven Formation Control
+## From Shepherding to Externally-Driven Formation Control
+1. [Robot sheepdog project achieves automatic flock control](https://autonomy.cs.sfu.ca/doc/vaughan_sab98.pdf). Vaughan, Richard *et al.* *From Animals to Animats 5 (SAB Proceedings)*, pp. 489–493, 1998.
+2. [Shepherding behaviors with multiple shepherds](https://doi.org/10.1109/ROBOT.2005.1570636). Lien, Jyh-Ming *et al.* *Proc. IEEE International Conference on Robotics and Automation (ICRA)*, pp. 3402–3407, 2005.
+3. [An effective simple shepherding algorithm suitable for implementation to a multi-mmobile robot system](https://doi.org/10.1109/ICICIC.2006.411). Miki, Tsutomu & Nakamura, Tetsuya. *Proc. International Conference on Innovative Computing, Information and Control (ICICIC’06)*, vol. 3, pp. 161–165, 2006.
+4. [Solving the shepherding problem: heuristics for herding autonomous, interacting agents](https://royalsocietypublishing.org/doi/10.1098/rsif.2014.0719). Strömbom, Daniel *et al.* *Journal of the Royal Society Interface*, 11(100):20140719, 2014.
+5. [Bio-inspired non-cooperative multi-robot herding](https://doi.org/10.1109/ICRA.2015.7139438). Pierson, Alyssa & Schwager, Mac. *Proc. IEEE International Conference on Robotics and Automation (ICRA)*, pp. 1843–1849, 2015.
+6. [A reinforcement learning approach to the shepherding task using SARSA](https://doi.org/10.1109/IJCNN.2016.7727694). Go, Clark Kendrick *et al.* *Proc. International Joint Conference on Neural Networks (IJCNN)*, pp. 3833–3836, 2016.
+7. [Controlling noncooperative herds with robotic herders](https://doi.org/10.1109/TRO.2017.2776308). Pierson, Alyssa & Schwager, Mac. *IEEE Transactions on Robotics*, 34(2):517–525, 2017.
+8. [Herding by caging: a topological approach towards guiding moving agents via mobile robots](https://www.roboticsproceedings.org/rss13/p74.pdf). Varava, Anastasiia *et al.* *Proc. Robotics: Science and Systems (RSS)*, 2017.
+9. [Robotic herding of a flock of birds using an unmanned aerial vehicle](https://doi.org/10.1109/TRO.2018.2853610). Paranjape, Aditya A. *et al.* *IEEE Transactions on Robotics*, 34(4):901–915, 2018.
+10. [Occlusion-based coordination protocol design for autonomous robotic shepherding tasks](https://doi.org/10.1109/TCDS.2020.3018549). Hu, Junyan *et al.* *IEEE Transactions on Cognitive and Developmental Systems*, 14(1):126–135, 2020.
+11. [Learning to herd agents amongst obstacles: Training robust shepherding behaviors using deep reinforcement learning](https://doi.org/10.1109/LRA.2021.3068955). Zhi, Jixuan & Lien, Jyh-Ming. *IEEE Robotics and Automation Letters*, 6(2):4163–4168, 2021.
+12. [Distributed multi-agent shepherding with consensus](https://link.springer.com/chapter/10.1007/978-3-030-78811-7_17). Campbell, Benjamin *et al.* *Advances in Swarm Intelligence (ICSI 2021, LNCS 12690)*, pp. 168–181, 2021.
+13. [Multi-robot implicit control of herds](https://doi.org/10.1109/ICRA48506.2021.9561231). Sebastián, Eduardo & Montijano, Eduardo. *Proc. IEEE International Conference on Robotics and Automation (ICRA)*, pp. 1601–1607, 2021.
+14. [Herding by caging: a formation-based motion planning framework for guiding mobile agents](https://doi.org/10.1007/s10514-021-09975-8). Song, Haoran *et al.* *Autonomous Robots*, 45(5):613–631, 2021.
+15. [Noncooperative herding with control barrier functions: Theory and experiments](https://doi.org/10.1109/CDC51059.2022.9992986). Grover, Jaskaran *et al.* *Proc. IEEE Conference on Decision and Control (CDC)*, pp. 80–86, 2022.
+16. [Adaptive multirobot implicit control of heterogeneous herds](https://doi.org/10.1109/TRO.2022.3183537). Sebastián, Eduardo *et al.* *IEEE Transactions on Robotics*, 38(6):3622–3635, 2022.
+17. [Steering herds away from dangers in dynamic environments](https://royalsocietypublishing.org/doi/10.1098/rsos.230015). Van Havermaet, Stef *et al.* *Royal Society Open Science*, 10(5):230015, 2023.
+18. [A distributed outmost push approach for multirobot herding](https://doi.org/10.1109/TRO.2024.3359528). Zhang, Shuai *et al.* *IEEE Transactions on Robotics*, 40:1706–1723, 2024.
+19. [Robotic shepherding in cluttered and unknown environments using control barrier functions](https://arxiv.org/abs/2407.15701). Hamandi, Mahmoud *et al.* *arXiv preprint*, 2024.
+20. [Multi-drone collaborative shepherding through multi-task reinforcement learning](https://doi.org/10.1109/LRA.2024.3468155). Wang, Guanghui *et al.* *IEEE Robotics and Automation Letters*, 9(11):10311–10318, 2024.
+21. [Nonreciprocal field theory for decision-making in multi-agent control systems](https://www.nature.com/articles/s41467-025-63071-4). Lama, Andrea; Di Bernardo, Mario & Klapp, Sabine H. L. *Nature Communications*, 16(1):8450, 2025.
+
 
 ## From Migrating to Self-Organizing Formation Control
 
