@@ -59,6 +59,18 @@ TBD
 3. [UAV Target Roundup Strategy Based on Wolf Pack Hunting Behavior](https://link.springer.com/chapter/10.1007/978-981-99-2356-4_40). Wang, Tong, et al. *Conference on Computer Supported Cooperative Work and Social Computing*. Singapore: Springer Nature Singapore*, 2022.
 4. [Pursuit-evasion games of multiple cooperative pursuers and an evader: A biological-inspired perspective](https://www.sciencedirect.com/science/article/abs/pii/S100757042200079X). Wang, Jianan, et al. *Communications in Nonlinear Science and Numerical Simulation*, 2022.
 5. [Multi-player pursuit–evasion games with one superior evader](https://www.sciencedirect.com/science/article/abs/pii/S0005109816301352). Chen, Jie, et al. *Automatica*, 2016.
+### The development of the behavior researches of wolf packs
+1. [The wolves of Mount McKinley](https://www.degruyterbrill.com/document/doi/10.1515/9780295802695/html).  Murie, Adolph. *The Wolves of Mount McKinley*, 2011.
+2. [Expression studies of wolves](https://cir.nii.ac.jp/crid/1573668926142714112). *Behaviour*, 1947.
+3. [Wolf-pack buffer zones as prey reservoir](https://www.science.org/doi/abs/10.1126/science.198.4314.320). Mech, L. David. *Science*, 1977.
+4. [Alpha status, dominance, and division of labor in wolf packs ](https://cdnsciencepub.com/doi/abs/10.1139/z99-099).  Mech, L. David. *Canadian journal of zoology*, 1999.
+5. [Modelling territoriality and wolf–deer interactions](https://www.nature.com/articles/366738a0). Lewis, M. A., and J. D. Murray. *Nature*, 1993.
+6. [The wolf as a carnivore](https://iris.uniroma1.it/handle/11573/162727). Peterson, Rolf O., and Paolo Ciucci., *University of Chicago Press*, 2003.
+7. [Wolf-pack (Canis lupus) hunting trategies emerge from simple rules  in computational simulations](https://www.sciencedirect.com/science/article/abs/pii/S0376635711001884). Muro, Cristian, et al. , *Behavioural Processes*,  2011.
+8. [Multi-robot system based on model of wolf hunting behavior to emulate wolf and elk interactions](https://ieeexplore.ieee.org/abstract/document/5723472). Madden, John D., Ronald C. Arkin, and Daniel R. MacNulty, *In Proceedings of IEEE International Conference on Robotics and​Biomimetics*, Tianjin, 2011. 
+9. [Grey wolf optimizer](https://www.sciencedirect.com/science/article/abs/pii/S0965997813001853). Mirjalili, Seyedali, Seyed Mohammad Mirjalili, and Andrew Lewis. *Advances in engineering software*, 2014.
+10. [A novel reinforcement learning based grey wolf optimizer algorithm for unmanned aerial vehicles (UAVs) path planning](https://www.sciencedirect.com/science/article/abs/pii/S1568494620300399). Qu, Chengzhi, et al., *Applied soft computing*, 2020.
+11. [Hybrid chaos game and grey wolf optimization algorithms for UAV path planning](https://www.sciencedirect.com/science/article/abs/pii/S0307904X2500054X). Yang, Jianqiang, et al.,  *Applied Mathematical Modelling*, 2025.
 ## From Self-organizing Search and Foraging to Cooperative Exploration and Transportation
 
 ## From Sheepherding to Externally-Driven Formation Control
