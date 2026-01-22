@@ -1,7 +1,7 @@
 # Mapping Animal Collective Behaviors to Unmanned Swarm Tasks: A Comprehensive Review of Bio-inspired Swarm Robotics
 
 ## Abstract
-TBD
+Bio-inspired unmanned swarm robotic, which aims to leverage swarm intelligence from natural biological systems (e.g., cooperative encirclement of wolf packs and self-organizing foraging of ant colonies) to unmanned swarm systems, provides promising solutions to alleviating the coordination challenge of complex missions (e.g., cooperative strike and exploration). This survey provides a comprehensive review of existing bio-inspired approaches for unmanned swarms. Concretely, we propose a hierarchical fine-grained taxonomy to categorize all the related methods via four dimensions, covering (i) six types of animal groups, (ii) six types of collective behaviors, (iii) seven sets of high-level unmanned swarm tasks, and (iv) more than nine commonly-used techniques. Such a taxonomy can describe the mapping correspondence about how a related method is motivated by which collective behavior of an animal group to support which task via what techniques. As a conclusion, we further summarize some common challenges in related studies and indicate possible future prospects.
 
 ## Citing
 TBD
@@ -11,34 +11,24 @@ TBD
 ### Only Collective Behaviors of Natural Animal Groups But No/Limited Applications in Unmanned Swarm Systems
 
 1. [Collective Motion](https://www.sciencedirect.com/science/article/pii/S0370157312000968). Vicsek, Tamás, and Anna Zafeiris. *Physics Reports*, 2012.
-   
 2. [Computing with the Collective Intelligence of Honey Bees --- A Survey](https://www.sciencedirect.com/science/article/pii/S221065021630027X). Rajasekhar, Anguluri, et al. *Swarm & Evolutionary Computation*, 2017.
-   
 3. [The Ecology of Collective Behavior in Ants](https://www.annualreviews.org/content/journals/10.1146/annurev-ento-011118-111923). Gordon, Deborah M. *Annual Review of Entomology*, 2019.
-   
 4. [Wolf Pack Algorithm: An Overview](https://link.springer.com/chapter/10.1007/978-981-96-0795-2_8). Xu, Wei, et al. *International Conference on Intelligent Robotics & Applications (ICIRA)*, 2024.
-   
 5. [Foraging by Predatory Ants: A Review](https://onlinelibrary.wiley.com/doi/full/10.1111/1744-7917.13461). Dejean, Alain, et al. *Insect Science*, 2025.
 
 
 ### Only Unmanned Swarm Robotics But No/Limited Bio-inspired Applications
 
 1. [A Survey on Aerial Swarm Robotics](https://ieeexplore.ieee.org/abstract/document/8424838). Chung, Soon-Jo, et al. *IEEE Transactions on Robotics*, 2018.
-
 2. [UAV Swarms: Research, Challenges, and Future Directions](https://link.springer.com/article/10.1186/s44147-025-00582-3). Alqudsi, Yunes, and Murat Makaraci. *Journal of Engineering & Applied Science*, 2025.
-
 3. [A Comprehensive Review of Next-Gen UAV Swarm Robotics: Optimisation Techniques and Control Strategies for Dynamic Environments](https://www.techscience.com/iasc/v40n1/59313/html). Abro, G. E. M., et al. *Intelligent Automation & Soft Computing*, 2025.
 
 ### Bio-inspired Unmanned Swarm Robotics
 
 1. [Swarm Robotics: a Review from the Swarm Engineering Perspective](https://link.springer.com/article/10.1007/s11721-012-0075-2). Brambilla, Manuele, et al. *Swarm Intelligence*, 2013.
-
 2. [A Comprehensive Review of Shepherding as a Bio-inspired Swarm-robotics Guidance Approach](https://ieeexplore.ieee.org/abstract/document/9099485). Long, Nathan K., et al. *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2020.
-
 3. [Wolf Pack Intelligence: From Biological Intelligence to Cooperative Control for Swarm Robotics](https://link.springer.com/chapter/10.1007/978-981-15-8155-7_408). Hu, Jinqiang, Husheng Wu, and Renjun Zhan. *International Conference on Guidance, Navigation & Control (ICGNC)*, 2021.
-
 4. [Swarm Robotics Behaviors and Tasks: A Technical Review](https://link.springer.com/chapter/10.1007/978-3-030-74540-0_5). Majid, M. H. A., M. R. Arshad, and R. M. Mokhtar. *Control Engineering in Robotics and Industrial Automation*, 2021.
-
 5. [From Animal Collective Behaviors to Swarm Robotic Cooperation](https://academic.oup.com/nsr/article-abstract/10/5/nwad040/7043485). Duan, Haibin, Mengzhen Huo, and Yanming Fan. *National Science Review*, 2023.
 
 ## From Predator Encirclement and Hunting to Cooperative Strike, Surveillance, and Tracking
@@ -71,17 +61,14 @@ TBD
 9. [Grey wolf optimizer](https://www.sciencedirect.com/science/article/abs/pii/S0965997813001853). Mirjalili, Seyedali, Seyed Mohammad Mirjalili, and Andrew Lewis. *Advances in engineering software*, 2014.
 10. [A novel reinforcement learning based grey wolf optimizer algorithm for unmanned aerial vehicles (UAVs) path planning](https://www.sciencedirect.com/science/article/abs/pii/S1568494620300399). Qu, Chengzhi, et al., *Applied soft computing*, 2020.
 11. [Hybrid chaos game and grey wolf optimization algorithms for UAV path planning](https://www.sciencedirect.com/science/article/abs/pii/S0307904X2500054X). Yang, Jianqiang, et al.,  *Applied Mathematical Modelling*, 2025.
+
 ## From Self-organizing Search and Foraging to Cooperative Exploration and Transportation
-1.[Cverage path planning of heterogeneous unmanned aerial vehicles based on ant colony system](https://www.sciencedirect.com/science/article/abs/pii/S221065022100167X)). Chen, J., Ling, F., Zhang, Y., You, T., Liu, Y., Du, X. *Swarm and Evolutionary Computation*, 2022.
 
-2.[Surveillance task optimized by evolutionary shared tabu inverted ant cellular automata model for swarm robotics navigation control](https://www.sciencedirect.com/science/article/pii/S266672072200025X). Lopes, H.J., Lima, D.A. *Results in Control and Optimization*, 2022.
-
-3.[Evolving adaptive pheromone path planning mechanism](https://dl.acm.org/doi/abs/10.1145/544741.544841). Sauter, J.A., Matthews, R., Dyke Parunak, H., Brueckner, S. *. In: Proceedings of the First International Joint Conference on Autonomous Agents and Multiagent Systems: Part 1*, 2002.
-
-4.[Digital pheromones for autonomous coordination of swarming uav’](https://arc.aiaa.org/doi/abs/10.2514/6.2002-3446). Parunak, H.V., Purcell, M., O’Connell, R. *In: 1st UAV Conference*, 2002.
-
-5.[A ellular automata ant memory model of foraging in a swarm of robots](https://www.sciencedirect.com/science/article/abs/pii/S221065022100167X). Wilson, S., Buffin, A., Pratt, S.C., Berman, S.  *Applied Mathematical Modelling*, 2017.
-
+1. [Cverage path planning of heterogeneous unmanned aerial vehicles based on ant colony system](https://www.sciencedirect.com/science/article/abs/pii/S221065022100167X)). Chen, J., Ling, F., Zhang, Y., You, T., Liu, Y., Du, X. *Swarm and Evolutionary Computation*, 2022.
+2. [Surveillance task optimized by evolutionary shared tabu inverted ant cellular automata model for swarm robotics navigation control](https://www.sciencedirect.com/science/article/pii/S266672072200025X). Lopes, H.J., Lima, D.A. *Results in Control and Optimization*, 2022.
+3. [Evolving adaptive pheromone path planning mechanism](https://dl.acm.org/doi/abs/10.1145/544741.544841). Sauter, J.A., Matthews, R., Dyke Parunak, H., Brueckner, S. *. In: Proceedings of the First International Joint Conference on Autonomous Agents and Multiagent Systems: Part 1*, 2002.
+4. [Digital pheromones for autonomous coordination of swarming uav’](https://arc.aiaa.org/doi/abs/10.2514/6.2002-3446). Parunak, H.V., Purcell, M., O’Connell, R. *In: 1st UAV Conference*, 2002.
+5. [A ellular automata ant memory model of foraging in a swarm of robots](https://www.sciencedirect.com/science/article/abs/pii/S221065022100167X). Wilson, S., Buffin, A., Pratt, S.C., Berman, S.  *Applied Mathematical Modelling*, 2017.
 6. [Multi-robot replication of ant collective towing behaviours](https://royalsocietypublishing.org/rsos/article/5/10/180409/93823/Multi-robot-replication-of-ant-collective-towing). Peterson, Rolf O., and Paolo Ciucci., *Royal Society open science*, 2018.
 7. [Ant-inspired control strategies for collective transport by dynamic multi-robot teams with temporary leaders](https://www.proquest.com/openview/1e8760f268bc05945af33b2bac9df553/1?pq-origsite=gscholar&cbl=18750&diss=y). Gah, E., *Arizona State University*,  2020.
 8. [Multi-robot system based on model of wolf hunting behavior to emulate wolf and elk interactions](https://ieeexplore.ieee.org/abstract/document/5723472). Madden, John D., Ronald C. Arkin, and Daniel R. MacNulty, *In Proceedings of IEEE International Conference on Robotics and​Biomimetics*, Tianjin, 2011.
