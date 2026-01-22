@@ -71,8 +71,9 @@ TBD
 9. [Grey wolf optimizer](https://www.sciencedirect.com/science/article/abs/pii/S0965997813001853). Mirjalili, Seyedali, Seyed Mohammad Mirjalili, and Andrew Lewis. *Advances in engineering software*, 2014.
 10. [A novel reinforcement learning based grey wolf optimizer algorithm for unmanned aerial vehicles (UAVs) path planning](https://www.sciencedirect.com/science/article/abs/pii/S1568494620300399). Qu, Chengzhi, et al., *Applied soft computing*, 2020.
 11. [Hybrid chaos game and grey wolf optimization algorithms for UAV path planning](https://www.sciencedirect.com/science/article/abs/pii/S0307904X2500054X). Yang, Jianqiang, et al.,  *Applied Mathematical Modelling*, 2025.
+
 ## From Self-organizing Search and Foraging to Cooperative Exploration and Transportation
-1.[Cverage path planning of heterogeneous unmanned aerial vehicles based on ant colony system](https://www.sciencedirect.com/science/article/abs/pii/S221065022100167X)). Chen, J., Ling, F., Zhang, Y., You, T., Liu, Y., Du, X. *Swarm and Evolutionary Computation*, 2022.
+1.[Cverage path planning of heterogeneous unmanned aerial vehicles based on ant colony system](https://www.sciencedirect.com/science/article/abs/pii/S221065022100167X). Chen, J., Ling, F., Zhang, Y., You, T., Liu, Y., Du, X. *Swarm and Evolutionary Computation*, 2022.
 
 2.[Surveillance task optimized by evolutionary shared tabu inverted ant cellular automata model for swarm robotics navigation control](https://www.sciencedirect.com/science/article/pii/S266672072200025X). Lopes, H.J., Lima, D.A. *Results in Control and Optimization*, 2022.
 
