@@ -3,6 +3,11 @@
 ## Abstract
 Bio-inspired unmanned swarm robotic, which aims to leverage swarm intelligence from natural biological systems (e.g., cooperative encirclement of wolf packs and self-organizing foraging of ant colonies) to unmanned swarm systems, provides promising solutions to alleviating the coordination challenge of complex missions (e.g., cooperative strike and exploration). This survey provides a comprehensive review of existing bio-inspired approaches for unmanned swarms. Concretely, we propose a hierarchical fine-grained taxonomy to categorize all the related methods via four dimensions, covering (i) six types of animal groups, (ii) six types of collective behaviors, (iii) seven sets of high-level unmanned swarm tasks, and (iv) more than nine commonly-used techniques. Such a taxonomy can describe the mapping correspondence about how a related method is motivated by which collective behavior of an animal group to support which task via what techniques. As a conclusion, we further summarize some common challenges in related studies and indicate possible future prospects.
 
+<div align=center>
+<img src='Motivation.png' width=60%>
+<img src='Tax.png' width=70%>
+</div>
+
 ## Citing
 TBD
 
