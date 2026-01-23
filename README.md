@@ -106,6 +106,12 @@ TBD
 Ratnieks, F.L.,  *PLOS ONE*, 2012.
 21. [How to not get stuck—Negative feedback due to crowding maintains flexibility in ant foraging](https://www.sciencedirect.com/science/article/abs/pii/S0022519314003981).  Czaczkes, T.J.,  *Journal of Theoretical Biology*, 1989.
 
+22. [A new search scheme using multi-bee-colony elite learning method for unmanned aerial vehicles in unknown environments](https://onlinelibrary.wiley.com/doi/abs/10.1002/oca.2918). Yue, W., Li, C., Liu, Z., Li, L., Wang, L., *Optimal Control Applications and Methods*, 2022.
+23. [Nature-inspired self-organizing collision avoidance for drone swarm based on reward-modulated spiking neural network](https://www.sciencedirect.com/science/article/pii/S2666389922002367). Zhao, F., Zeng, Y., Han, B., Fang, H., Zhao, Z., *Patterns*, 2022.
+24. [Swarm robotics search and rescue: A bee-inspired swarm cooperation approach without information exchange](https://ieeexplore.ieee.org/document/10161039). Li, Y., Gao, Y., Yang, S., Quan, Q., *2023 IEEE International Conference on Robotics and Automation (ICRA)*, 2023.
+25. [Honeybee-like collective decision making in a kilobot swarm](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033149). March-Pons, D., et al., *Physical Review Research*, 2024.
+26. [A Q-learning based multi-strategy integrated artificial bee colony algorithm with application in unmanned vehicle path planning](https://www.sciencedirect.com/science/article/pii/S0957417423018055). Ni, X., Hu, W., Fan, Q., Cui, Y., Qi, C., *Expert Systems with Applications*, 2024.
+27. [Multi-uav path planning considering multiple energy consumptions via an improved bee foraging learning particle swarm optimization algorithm](https://www.nature.com/articles/s41598-025-99001-z). Qi, Y., Jiang, H., Huang, G., Yang, L., Wang, F., Xu, Y., *Scientific Reports*, 2025.
 
 
 ## From Shepherding to Externally-Driven Formation Control
