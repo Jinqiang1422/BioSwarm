@@ -76,7 +76,7 @@ TBD
 
 ## From Self-organizing Search and Foraging to Cooperative Exploration and Transportation
 
-1. [Cverage path planning of heterogeneous unmanned aerial vehicles based on ant colony system](https://www.sciencedirect.com/science/article/abs/pii/S221065022100167X)). Chen, J., Ling, F., Zhang, Y., You, T., Liu, Y., Du, X. *Swarm and Evolutionary Computation*, 2022.
+1. [Cverage path planning of heterogeneous unmanned aerial vehicles based on ant colony system](https://www.sciencedirect.com/science/article/abs/pii/S221065022100167X). Chen, J., Ling, F., Zhang, Y., You, T., Liu, Y., Du, X. *Swarm and Evolutionary Computation*, 2022.
 2. [Surveillance task optimized by evolutionary shared tabu inverted ant cellular automata model for swarm robotics navigation control](https://www.sciencedirect.com/science/article/pii/S266672072200025X). Lopes, H.J., Lima, D.A. *Results in Control and Optimization*, 2022.
 3. [Evolving adaptive pheromone path planning mechanism](https://dl.acm.org/doi/abs/10.1145/544741.544841). Sauter, J.A., Matthews, R., Dyke Parunak, H., Brueckner, S. *. In: Proceedings of the First International Joint Conference on Autonomous Agents and Multiagent Systems: Part 1*, 2002.
 4. [Digital pheromones for autonomous coordination of swarming uav’](https://arc.aiaa.org/doi/abs/10.2514/6.2002-3446). Parunak, H.V., Purcell, M., O’Connell, R. *In: 1st UAV Conference*, 2002.
