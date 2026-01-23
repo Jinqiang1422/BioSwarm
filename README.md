@@ -23,10 +23,10 @@ TBD
 3. [The Ecology of Collective Behavior in Ants](https://www.annualreviews.org/content/journals/10.1146/annurev-ento-011118-111923). Gordon, Deborah M. *Annual Review of Entomology*, 2019.
 4. [Wolf Pack Algorithm: An Overview](https://link.springer.com/chapter/10.1007/978-981-96-0795-2_8). Xu, Wei, et al. *International Conference on Intelligent Robotics & Applications (ICIRA)*, 2024.
 5. [Foraging by Predatory Ants: A Review](https://onlinelibrary.wiley.com/doi/full/10.1111/1744-7917.13461). Dejean, Alain, et al. *Insect Science*, 2025.
-6.[Schwarmbienen auf Wohnungssuche(English:House-Hunting by Swarm Bees)](https://link.springer.com/article/10.1007/BF00303153). Lindauer, M. *Z. Vergl. Physiol*, 1955.
-7.[Group Decision Making in Honey Bee Swarms](https://www.researchgate.net/publication/242086450_Group_Decision_Making_in_Honey_Bee_Swarms). Visscher, P. and Seeley, T. and Passino, Kevin. *American Scientist*, 2006.
-8.[Group decision making in swarms of honey bees](https://link.springer.com/article/10.1007/s002650050536).Seeley, T., Buhrman, S. *Behav Ecol Sociobiol*, 1999. 
-9.[Stop Signals Provide Cross Inhibition in Collective Decision-Making by Honeybee Swarms](https://www.science.org/doi/10.1126/science.1210361). Seeley, T., et al. *Science*, 2012.
+6. [Schwarmbienen auf Wohnungssuche(English:House-Hunting by Swarm Bees)](https://link.springer.com/article/10.1007/BF00303153). Lindauer, M. *Z. Vergl. Physiol*, 1955.
+7. [Group Decision Making in Honey Bee Swarms](https://www.researchgate.net/publication/242086450_Group_Decision_Making_in_Honey_Bee_Swarms). Visscher, P. and Seeley, T. and Passino, Kevin. *American Scientist*, 2006.
+8. [Group decision making in swarms of honey bees](https://link.springer.com/article/10.1007/s002650050536).Seeley, T., Buhrman, S. *Behav Ecol Sociobiol*, 1999. 
+9. [Stop Signals Provide Cross Inhibition in Collective Decision-Making by Honeybee Swarms](https://www.science.org/doi/10.1126/science.1210361). Seeley, T., et al. *Science*, 2012.
 
 ### Only Unmanned Swarm Robotics But No/Limited Bio-inspired Applications
 
