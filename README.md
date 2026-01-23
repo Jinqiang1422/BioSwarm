@@ -6,7 +6,7 @@ Bio-inspired unmanned swarm robotic, which aims to leverage swarm intelligence f
 <div align=center>
 <img src='Motivation.png' width=60%>
 <img src='Tax.png' width=70%>
-<img src='Figures_task.pdf' width=70%>
+<img src='task.png' width=70%>
 </div>
 
 
@@ -80,7 +80,7 @@ TBD
 ## From Self-organizing Search and Foraging to Cooperative Exploration and Transportation
 
 <div align=center>
-<img src='bee behavior' width=70%>
+<img src='bee behavior.png' width=70%>
 </div>
 
 1. [Cverage path planning of heterogeneous unmanned aerial vehicles based on ant colony system](https://www.sciencedirect.com/science/article/abs/pii/S221065022100167X). Chen, J., Ling, F., Zhang, Y., You, T., Liu, Y., Du, X. *Swarm and Evolutionary Computation*, 2022.
