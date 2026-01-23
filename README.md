@@ -6,7 +6,10 @@ Bio-inspired unmanned swarm robotic, which aims to leverage swarm intelligence f
 <div align=center>
 <img src='Motivation.png' width=60%>
 <img src='Tax.png' width=70%>
+<img src='Figures_task.pdf' width=70%>
 </div>
+
+
 
 ## Citing
 TBD
@@ -75,6 +78,10 @@ TBD
 11. [Hybrid chaos game and grey wolf optimization algorithms for UAV path planning](https://www.sciencedirect.com/science/article/abs/pii/S0307904X2500054X). Yang, Jianqiang, et al.,  *Applied Mathematical Modelling*, 2025.
 
 ## From Self-organizing Search and Foraging to Cooperative Exploration and Transportation
+
+<div align=center>
+<img src='bee behavior' width=70%>
+</div>
 
 1. [Cverage path planning of heterogeneous unmanned aerial vehicles based on ant colony system](https://www.sciencedirect.com/science/article/abs/pii/S221065022100167X). Chen, J., Ling, F., Zhang, Y., You, T., Liu, Y., Du, X. *Swarm and Evolutionary Computation*, 2022.
 2. [Surveillance task optimized by evolutionary shared tabu inverted ant cellular automata model for swarm robotics navigation control](https://www.sciencedirect.com/science/article/pii/S266672072200025X). Lopes, H.J., Lima, D.A. *Results in Control and Optimization*, 2022.
