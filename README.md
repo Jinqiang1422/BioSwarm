@@ -119,8 +119,8 @@ Ratnieks, F.L.,  *PLOS ONE*, 2012.
 
 
 ## From Migrating to Self-Organizing Formation Control
-1. [Distributed UAV swarm formation and collision avoidance strategies over fixed and switching topologies](https://ieeexplore.ieee.org/document/9475143). Zhao, Y., Liu, Z., Wang, Z., et al. *IEEE Transactions on Cybernetics*, 2022.
-2. [Predictive control of aerial swarms in cluttered environments](https://www.nature.com/articles/s42256-021-00340-7). Soria, E., Schiano, F., Floreano, D. *Nature Machine Intelligence*, 2021.
+1. [Distributed UAV swarm formation and collision avoidance strategies over fixed and switching topologies](https://ieeexplore.ieee.org/document/9663025). Zhao, Y., Liu, Z., Wang, Z., et al. *IEEE Transactions on Cybernetics*, 2022.
+2. [Predictive control of aerial swarms in cluttered environments]([https://www.nature.com/articles/s42256-021-00340-7](https://www.nature.com/articles/s42256-021-00341-y)). Soria, E., Schiano, F., Floreano, D. *Nature Machine Intelligence*, 2021.
 3. [High-speed motion planning for aerial swarms in unknown and cluttered environments](https://ieeexplore.ieee.org/document/10530364). Toumieh, C., Floreano, D. *IEEE Transactions on Robotics*, 2024.
 4. [Starling-inspired bifurcation-aggregation adaptive control for uav swarms in complex multi-obstacle environments](https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0238). Yu, Mei, and Duan, Haibin. *SCIEΝΤΙΑ SINICA Informationis*, 2025.
 5. [Optimized flocking of autonomous drones in confined environments](https://www.science.org/doi/10.1126/scirobotics.aat3536). Vásárhelyi, G., Virágh, C., Somorjai, G., Nepusz, T., Eiben, A.E., Vicsek, T. *Science Robotics*, 2018.
