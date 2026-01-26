@@ -91,8 +91,8 @@ TBD
 20. [Negative feedback enables fast and flexible collective decision- making in ants](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0044501).  Grueter, C., Schuerch, R., Czaczkes, T.J., Taylor, K., Durance, T., Jones, S.M.,
 Ratnieks, F.L.,  *PLOS ONE*, 2012.
 21. [How to not get stuck—Negative feedback due to crowding maintains flexibility in ant foraging](https://www.sciencedirect.com/science/article/abs/pii/S0022519314003981).  Czaczkes, T.J.,  *Journal of Theoretical Biology*, 1989.
-
-
+22. [Multi-race ant colony par-allel chaos search method for path planning on 3-d terrain considering energy consumption and travel distanc](https://ieeexplore.ieee.org/document/10568364). Wang, J., Yuan, X., Huang, G., Tan, W., Wang, Y.,  * IEEE Transactions on Vehicular Technology*, 2024.
+21. [An efficient uav coverage path planning method for 3-d structures](https://ieeexplore.ieee.org/document/11018656). Du, J., Huang, B., Jia, B.,  *. IEEE Internet of Things Journal *, 2025.
 
 ## From Shepherding to Externally-Driven Formation Control
 1. [Robot sheepdog project achieves automatic flock control](https://autonomy.cs.sfu.ca/doc/vaughan_sab98.pdf). Vaughan, Richard *et al.* *From Animals to Animats 5 (SAB Proceedings)*, pp. 489–493, 1998.
