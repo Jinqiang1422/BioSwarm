@@ -27,6 +27,7 @@ TBD
 1. [A Survey on Aerial Swarm Robotics](https://ieeexplore.ieee.org/abstract/document/8424838). Chung, Soon-Jo, et al. *IEEE Transactions on Robotics*, 2018.
 2. [UAV Swarms: Research, Challenges, and Future Directions](https://link.springer.com/article/10.1186/s44147-025-00582-3). Alqudsi, Yunes, and Murat Makaraci. *Journal of Engineering & Applied Science*, 2025.
 3. [A Comprehensive Review of Next-Gen UAV Swarm Robotics: Optimisation Techniques and Control Strategies for Dynamic Environments](https://www.techscience.com/iasc/v40n1/59313/html). Abro, G. E. M., et al. *Intelligent Automation & Soft Computing*, 2025.
+4. [A Survey on Autonomous and Intelligent Swarms of Uncrewed Aerial Vehicles (UAVs)](https://ieeexplore.ieee.org/abstract/document/11010841). Du, Zhenpeng, et al. IEEE Transactions on Intelligent Transportation Systems, 2025.
 
 ### Bio-inspired Unmanned Swarm Robotics
 
