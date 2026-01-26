@@ -56,6 +56,10 @@ TBD
 4. [Pursuit-evasion games of multiple cooperative pursuers and an evader: A biological-inspired perspective](https://www.sciencedirect.com/science/article/abs/pii/S100757042200079X). Wang, Jianan, et al. *Communications in Nonlinear Science and Numerical Simulation*, 2022.
 5. [Multi-player pursuit–evasion games with one superior evader](https://www.sciencedirect.com/science/article/abs/pii/S0005109816301352). Chen, Jie, et al. *Automatica*, 2016.
 ### The development of the behavior researches of wolf packs
+<div align=center>
+<img src='Figure_research_trajectories_wolf.png' width=100%>
+</div>
+
 1. [The wolves of Mount McKinley](https://www.degruyterbrill.com/document/doi/10.1515/9780295802695/html).  Murie, Adolph. *The Wolves of Mount McKinley*, 2011.
 2. [Expression studies of wolves](https://cir.nii.ac.jp/crid/1573668926142714112). *Behaviour*, 1947.
 3. [Wolf-pack buffer zones as prey reservoir](https://www.science.org/doi/abs/10.1126/science.198.4314.320). Mech, L. David. *Science*, 1977.
