@@ -98,6 +98,7 @@ Ratnieks, F.L.,  *PLOS ONE*, 2012.
 21. [How to not get stuck—Negative feedback due to crowding maintains flexibility in ant foraging](https://www.sciencedirect.com/science/article/abs/pii/S0022519314003981).  Czaczkes, T.J.,  *Journal of Theoretical Biology*, 1989.
 22. [Multi-race ant colony par-allel chaos search method for path planning on 3-d terrain considering energy consumption and travel distanc](https://ieeexplore.ieee.org/document/10568364). Wang, J., Yuan, X., Huang, G., Tan, W., Wang, Y.,  *IEEE Transactions on Vehicular Technology*, 2024.
 21. [An efficient uav coverage path planning method for 3-d structures](https://ieeexplore.ieee.org/document/11018656). Du, J., Huang, B., Jia, B.,  *IEEE Internet of Things Journal*, 2025.
+<img width="1901" height="969" alt="ant_development" src="https://github.com/user-attachments/assets/b3e94d6e-e89c-40f0-a252-8f02157d6b2e" />
 
 ## From Shepherding to Externally-Driven Formation Control
 1. [Robot sheepdog project achieves automatic flock control](https://autonomy.cs.sfu.ca/doc/vaughan_sab98.pdf). Vaughan, Richard *et al.* *From Animals to Animats 5 (SAB Proceedings)*, pp. 489–493, 1998.
