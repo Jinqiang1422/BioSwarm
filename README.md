@@ -108,7 +108,7 @@ Ratnieks, F.L.,  *PLOS ONE*, 2012.
 
 ## From Shepherding to Externally-Driven Formation Control
 <div align=center>
-<img src='timeline_shepherd.png' width=100%>
+<img src='timeline_shepherd.png'>
 </div>
 
 1. [Genetics and the social behavior of the dog](https://press.uchicago.edu/ucp/books/book/chicago/G/bo42153960.html). Scott, J. P. & Fuller, J. L. *University of Chicago Press*, Chicago, 1965.
