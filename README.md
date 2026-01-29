@@ -39,6 +39,7 @@ TBD
 
 ## From Predator Encirclement and Hunting to Cooperative Strike, Surveillance, and Tracking
 ### From Raptor Encirclement and Hunting to Cooperative Strike, Surveillance, and Tracking
+<img width="9175" height="6325" alt="Raptor_new1" src="https://github.com/user-attachments/assets/261832f0-b38f-4a81-9ef8-66dabbd37041" />
 1. [Hawk-rabbit game architecture for unmanned aerial vehicle swarm multi-target defense under uncertain attack targets](https://www.sciencedirect.com/science/article/abs/pii/S127096382500450X). Wei Yue, Xiaoyong Zhang. *Aerospace Science and Technology*, 2025.
 2. [Hawk-Pigeon Game Tactics for Unmanned Aerial Vehicle Swarm Target Defense](https://ieeexplore.ieee.org/document/10050779). Ruan, Wanying and Sun, Yongbin and Deng, Yimin and Duan, Haibin. *IEEE Transactions on Industrial Informatics*, 2023.
 3. [Multi-Agents Cooperative Target Tracking Under Physical Attacks With Environment-Aware Dynamic Constraints](https://ieeexplore.ieee.org/document/11154039). Hu, Zhongjun and Hoagg, Jesse B. and Jin, Xu. *IEEE Transactions on Automation Science and Engineering*, 2025.
@@ -49,6 +50,11 @@ TBD
 8. [A Cooperative Bearing-Rate Approach for Observability-Enhanced Target Motion Estimation](https://ieeexplore.ieee.org/document/11128217). Zheng, Canlun and Guo, Hanqing and Zhao, Shiyu. *2025 IEEE International Conference on Robotics and Automation (ICRA)*, 2025.
 9. [Bioinspired Bearing–Based Target Enclosing Control for Unmanned Aerial Vehicle Swarm](https://ieeexplore.ieee.org/document/10697318). Deng, Yimin and Zhu, Baitao and Duan, Haibin. *IEEE/ASME Transactions on Mechatronics*, 2025.
 10. [Hawks steer attacks using a guidance system tuned for close pursuit of erratically manoeuvring targets](https://www.nature.com/articles/s41467-019-10454-z). Brighton, Caroline H and Taylor, Graham K. *Nature communications*, 2019.
+11. [Cooperative Hunting Harris' Hawks (Parabuteo unicinctus)](https://www.nature.com/articles/s41467-019-10454-z). Bednarz J C. *Science*, 1988.
+12. [Foraging habits, hunting and breeding success of Lanner Falcons (Falco biarmicus) in Israel](https://www.researchgate.net/publication/231183264_Foraging_habits_hunting_and_breeding_success_of_Lanner_Falcons_in_Israel). YOsEF R. *Journal of Raptor Research*, 1991.
+13. [Reexamining Cooperative Hunting in Harris's Hawk (Parabuteo unicinctus): Large Prey or Challenging Habitats?](https://www.nature.com/articles/s41467-019-10454-z). Jennifer O. Coulson, Thomas D. Coulson. *Nature communications*, 2013.
+
+    
 ### From Wolf Packs Encirclement and Hunting to Cooperative Strike, Surveillance, and Tracking
 1. [Unmanned aerial systems coordinate target allocation based on wolf behaviors](https://link.springer.com/article/10.1007/s11432-018-9587-0). Duan, Haibin, et al. *Science China. Information Sciences*, 2019.
 2. [Bio-inspired adaptive formation tracking control for swarm systems with application to UAV swarm systems](https://www.sciencedirect.com/science/article/abs/pii/S0925231221007268). Xie, Yuxin, et al. *Neurocomputing*, 2021.
