@@ -46,6 +46,7 @@ TBD
 ## From Predator Encirclement and Hunting to Cooperative Strike, Surveillance, and Tracking
 ### From Raptor Encirclement and Hunting to Cooperative Strike, Surveillance, and Tracking
 <img width="9175" height="6325" alt="Raptor_new1" src="https://github.com/user-attachments/assets/261832f0-b38f-4a81-9ef8-66dabbd37041" />
+
 1. [Hawk-rabbit game architecture for unmanned aerial vehicle swarm multi-target defense under uncertain attack targets](https://www.sciencedirect.com/science/article/abs/pii/S127096382500450X). Wei Yue, Xiaoyong Zhang. *Aerospace Science and Technology*, 2025.
 2. [Hawk-Pigeon Game Tactics for Unmanned Aerial Vehicle Swarm Target Defense](https://ieeexplore.ieee.org/document/10050779). Ruan, Wanying and Sun, Yongbin and Deng, Yimin and Duan, Haibin. *IEEE Transactions on Industrial Informatics*, 2023.
 3. [Multi-Agents Cooperative Target Tracking Under Physical Attacks With Environment-Aware Dynamic Constraints](https://ieeexplore.ieee.org/document/11154039). Hu, Zhongjun and Hoagg, Jesse B. and Jin, Xu. *IEEE Transactions on Automation Science and Engineering*, 2025.
