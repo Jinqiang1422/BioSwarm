@@ -6,7 +6,10 @@ Bio-inspired unmanned swarm robotic, which aims to leverage swarm intelligence f
 <div align=center>
 <img src='Motivation.png' width=60%>
 <img src='Tax.png' width=70%>
+<img src='task.png' width=70%>
 </div>
+
+
 
 ## Citing
 TBD
@@ -20,7 +23,10 @@ TBD
 3. [The Ecology of Collective Behavior in Ants](https://www.annualreviews.org/content/journals/10.1146/annurev-ento-011118-111923). Gordon, Deborah M. *Annual Review of Entomology*, 2019.
 4. [Wolf Pack Algorithm: An Overview](https://link.springer.com/chapter/10.1007/978-981-96-0795-2_8). Xu, Wei, et al. *International Conference on Intelligent Robotics & Applications (ICIRA)*, 2024.
 5. [Foraging by Predatory Ants: A Review](https://onlinelibrary.wiley.com/doi/full/10.1111/1744-7917.13461). Dejean, Alain, et al. *Insect Science*, 2025.
-
+6. [Schwarmbienen auf Wohnungssuche(English:House-Hunting by Swarm Bees)](https://link.springer.com/article/10.1007/BF00303153). Lindauer, M. *Z. Vergl. Physiol*, 1955.
+7. [Group Decision Making in Honey Bee Swarms](https://www.researchgate.net/publication/242086450_Group_Decision_Making_in_Honey_Bee_Swarms). Visscher, P. and Seeley, T. and Passino, Kevin. *American Scientist*, 2006.
+8. [Group decision making in swarms of honey bees](https://link.springer.com/article/10.1007/s002650050536).Seeley, T., Buhrman, S. *Behav Ecol Sociobiol*, 1999. 
+9. [Stop Signals Provide Cross Inhibition in Collective Decision-Making by Honeybee Swarms](https://www.science.org/doi/10.1126/science.1210361). Seeley, T., et al. *Science*, 2012.
 
 ### Only Unmanned Swarm Robotics But No/Limited Bio-inspired Applications
 
@@ -80,7 +86,11 @@ TBD
 
 ## From Self-organizing Search and Foraging to Cooperative Exploration and Transportation
 
-1. [Cverage path planning of heterogeneous unmanned aerial vehicles based on ant colony system](https://www.sciencedirect.com/science/article/abs/pii/S221065022100167X)). Chen, J., Ling, F., Zhang, Y., You, T., Liu, Y., Du, X. *Swarm and Evolutionary Computation*, 2022.
+<div align=center>
+<img src='bee behavior.png' width=70%>
+</div>
+
+1. [Cverage path planning of heterogeneous unmanned aerial vehicles based on ant colony system](https://www.sciencedirect.com/science/article/abs/pii/S221065022100167X). Chen, J., Ling, F., Zhang, Y., You, T., Liu, Y., Du, X. *Swarm and Evolutionary Computation*, 2022.
 2. [Surveillance task optimized by evolutionary shared tabu inverted ant cellular automata model for swarm robotics navigation control](https://www.sciencedirect.com/science/article/pii/S266672072200025X). Lopes, H.J., Lima, D.A. *Results in Control and Optimization*, 2022.
 3. [Evolving adaptive pheromone path planning mechanism](https://dl.acm.org/doi/abs/10.1145/544741.544841). Sauter, J.A., Matthews, R., Dyke Parunak, H., Brueckner, S. *. In: Proceedings of the First International Joint Conference on Autonomous Agents and Multiagent Systems: Part 1*, 2002.
 4. [Digital pheromones for autonomous coordination of swarming uav’](https://arc.aiaa.org/doi/abs/10.2514/6.2002-3446). Parunak, H.V., Purcell, M., O’Connell, R. *In: 1st UAV Conference*, 2002.
