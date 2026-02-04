@@ -71,7 +71,7 @@ TBD
 5. [Multi-player pursuit–evasion games with one superior evader](https://www.sciencedirect.com/science/article/abs/pii/S0005109816301352). Chen, Jie, et al. *Automatica*, 2016.
 ### The development of the behavior researches of wolf packs
 <div align=center>
-<img src='Figure_research_trajectories_wolf.png' width=100%>
+<img src='timeline_wolf.png' width=100%>
 </div>
 
 1. [The wolves of Mount McKinley](https://www.degruyterbrill.com/document/doi/10.1515/9780295802695/html).  Murie, Adolph. *The Wolves of Mount McKinley*, 2011.
