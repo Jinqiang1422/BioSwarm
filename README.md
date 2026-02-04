@@ -92,15 +92,15 @@ TBD
 <img src='bee behavior.png' width=70%>
 </div>
 
-1. [Cverage path planning of heterogeneous unmanned aerial vehicles based on ant colony system](https://www.sciencedirect.com/science/article/abs/pii/S221065022100167X). Chen, J., Ling, F., Zhang, Y., You, T., Liu, Y., Du, X. *Swarm and Evolutionary Computation*, 2022.
-2. [Surveillance task optimized by evolutionary shared tabu inverted ant cellular automata model for swarm robotics navigation control](https://www.sciencedirect.com/science/article/pii/S266672072200025X). Lopes, H.J., Lima, D.A. *Results in Control and Optimization*, 2022.
-3. [Evolving adaptive pheromone path planning mechanism](https://dl.acm.org/doi/abs/10.1145/544741.544841). Sauter, J.A., Matthews, R., Dyke Parunak, H., Brueckner, S. *. In: Proceedings of the First International Joint Conference on Autonomous Agents and Multiagent Systems: Part 1*, 2002.
-4. [Digital pheromones for autonomous coordination of swarming uav’](https://arc.aiaa.org/doi/abs/10.2514/6.2002-3446). Parunak, H.V., Purcell, M., O’Connell, R. *In: 1st UAV Conference*, 2002.
-5. [A ellular automata ant memory model of foraging in a swarm of robots](https://www.sciencedirect.com/science/article/abs/pii/S221065022100167X). Wilson, S., Buffin, A., Pratt, S.C., Berman, S.  *Applied Mathematical Modelling*, 2017.
-6. [Multi-robot replication of ant collective towing behaviours](https://royalsocietypublishing.org/rsos/article/5/10/180409/93823/Multi-robot-replication-of-ant-collective-towing). Peterson, Rolf O., and Paolo Ciucci., *Royal Society open science*, 2018.
-7. [Ant-inspired control strategies for collective transport by dynamic multi-robot teams with temporary leaders](https://www.proquest.com/openview/1e8760f268bc05945af33b2bac9df553/1?pq-origsite=gscholar&cbl=18750&diss=y). Gah, E., *Arizona State University*,  2020.
-8. [Multi-robot system based on model of wolf hunting behavior to emulate wolf and elk interactions](https://ieeexplore.ieee.org/abstract/document/5723472). Madden, John D., Ronald C. Arkin, and Daniel R. MacNulty, *In Proceedings of IEEE International Conference on Robotics and​Biomimetics*, Tianjin, 2011.
-9. [Multi-robot system based on model of wolf hunting behavior to emulate wolf and elk interactions](https://ieeexplore.ieee.org/abstract/document/5723472). Madden, John D., Ronald C. Arkin, and Daniel R. MacNulty, *In Proceedings of IEEE International Conference on Robotics and​Biomimetics*, Tianjin, 2011.
+1. [Multi-robot exploration and terrain coverage in an unknown environment](https://royalsocietypublishing.org/rsos/article/5/10/180409/93823/Multi-robot-replication-of-ant-collective-towing). Senthilkumar, K., Bharadwaj, K.K., *Robotics and Autonomous Systems*, 2012.
+2. [Ant-based multi-robot exploration in non-convex space without global connectivity constraints](https://royalsocietypublishing.org/rsos/article/5/10/180409/93823/Multi-robot-replication-of-ant-collective-towing).Cardona, G.A., Yanguas-Rojas, D., Arevalo-Castiblanco, M.F., Mojica-Nava, E., *In: 2019 18th European Control Conference (ECC)*, 2019.
+3. [Area exploration with a swarm of uavs combining deterministic chaotic ant colony mobility with position mpc.](https://royalsocietypublishing.org/rsos/article/5/10/180409/93823/Multi-robot-replication-of-ant-collective-towing).Rosalie, M., Dentler, J.E., Danoy, G., Bouvry, P., Kannan, S., Olivares-Mendez, M.A., Voos, H., *In: 2017 International Conference on Unmanned Aircraft Systems (ICUAS)*, 2017.
+4. [Multi-robot exploration using dynamic fuzzy cognitive maps and ant colony optimization.](https://royalsocietypublishing.org/rsos/article/5/10/180409/93823/Multi-robot-replication-of-ant-collective-towing).Mendon¸ca, M., Pal´acios, R.H., Papageorgiou, E.I., Souza, L.B., *In: 2020 IEEE International Conference on Fuzzy System*, 2020.
+5. [Multi-robot exploration of unknown environments with identification of exploration completion and post-exploration rendezvous using ant algorithms.](https://royalsocietypublishing.org/rsos/article/5/10/180409/93823/Multi-robot-replication-of-ant-collective-towing).Andries, M., Charpillet, F., *In: 2013 IEEE/RSJ International Conference on Intelligent Robots and System*, 2013.
+6. [An efficient hierarchical planner for autonomous exploration based on ant colony path optimization](https://royalsocietypublishing.org/rsos/article/5/10/180409/93823/Multi-robot-replication-of-ant-collective-towing). Liu, H., Wang, Y., Pei, S., Sun, G., Yao, W., *IEEE Sensors
+Journal*, 2013. 
+7. [Multi-robot replication of ant collective towing behaviours](https://royalsocietypublishing.org/rsos/article/5/10/180409/93823/Multi-robot-replication-of-ant-collective-towing). Peterson, Rolf O., and Paolo Ciucci., *Royal Society open science*, 2018.
+8. [Ant-inspired control strategies for collective transport by dynamic multi-robot teams with temporary leaders](https://www.proquest.com/openview/1e8760f268bc05945af33b2bac9df553/1?pq-origsite=gscholar&cbl=18750&diss=y). Gah, E., *Arizona State University*,  2020.
 10.  [Ant-inspired strategies for multi-robot collaborative transportation-an ockham’s razor](https://www.sciencedirect.com/science/article/pii/S2405896321023120). Barawkar, S., Kumar, M., *IFAC-PapersOnLine*, 2021.
 11.  [Recherches sur les Moeurs des Fourmis Indig`enes](https://www.biodiversitylibrary.org/item/105488). Huber, P., *Fischbacher*, 1861.
 12.  [Observations on ants, bees, and wasps.—part viii](https://archive.org/details/biostor-284056).  Lubbock, J.,  *Zoological Journal of the Linnean Society*, 1881.
@@ -111,11 +111,10 @@ TBD
 17.  [Random behaviour, amplification processes and number of participants: How they contribute to the foraging properties of ants](https://www.sciencedirect.com/science/article/abs/pii/0167278986902393).   Deneubourg, J.L., Aron, S., Goss, S., Pasteels, J.,  *hysica D: nonlinear phenomena*, 1986.
 18. [Scavenging bypheidole pallidulaa key for under-standing decision-making systems in ants](https://www.sciencedirect.com/science/article/abs/pii/S000334729690305X).  Detrain, C., Deneubourg, J.-L. ,  *Animal behaviour*, 1997.
 19. [From nonlinearity to optimality: pheromone trail foraging by ants](https://www.sciencedirect.com/science/article/abs/pii/S000334720392224X).  Sumpter, D.J., Beekman, M.,  *Animal behaviour*, 2009.
-20. [Negative feedback enables fast and flexible collective decision- making in ants](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0044501).  Grueter, C., Schuerch, R., Czaczkes, T.J., Taylor, K., Durance, T., Jones, S.M.,
-Ratnieks, F.L.,  *PLOS ONE*, 2012.
-21. [How to not get stuck—Negative feedback due to crowding maintains flexibility in ant foraging](https://www.sciencedirect.com/science/article/abs/pii/S0022519314003981).  Czaczkes, T.J.,  *Journal of Theoretical Biology*, 1989.
-22. [Multi-race ant colony par-allel chaos search method for path planning on 3-d terrain considering energy consumption and travel distanc](https://ieeexplore.ieee.org/document/10568364). Wang, J., Yuan, X., Huang, G., Tan, W., Wang, Y.,  *IEEE Transactions on Vehicular Technology*, 2024.
-21. [An efficient uav coverage path planning method for 3-d structures](https://ieeexplore.ieee.org/document/11018656). Du, J., Huang, B., Jia, B.,  *IEEE Internet of Things Journal*, 2025.
+
+
+
+
 <img width="1901" height="969" alt="ant_development" src="https://github.com/user-attachments/assets/b3e94d6e-e89c-40f0-a252-8f02157d6b2e" />
 
 ## From Shepherding to Externally-Driven Formation Control
