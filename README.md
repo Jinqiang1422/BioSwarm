@@ -111,10 +111,9 @@ TBD
 18. [Scavenging bypheidole pallidulaa key for under-standing decision-making systems in ants](https://www.sciencedirect.com/science/article/abs/pii/S000334729690305X).  Detrain, C., Deneubourg, J.-L. ,  *Animal behaviour*, 1997.
 19. [From nonlinearity to optimality: pheromone trail foraging by ants](https://www.sciencedirect.com/science/article/abs/pii/S000334720392224X).  Sumpter, D.J., Beekman, M.,  *Animal behaviour*, 2009.
 
+<img width="1916" height="1369" alt="ant_development" src="https://github.com/user-attachments/assets/d6fc0bba-d070-4e1e-b0d7-229a0bd4b54d" />
 
 
-
-<img width="1901" height="969" alt="ant_development" src="https://github.com/user-attachments/assets/b3e94d6e-e89c-40f0-a252-8f02157d6b2e" />
 
 ## From Shepherding to Externally-Driven Formation Control
 <div align=center>
