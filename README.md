@@ -89,6 +89,7 @@ TBD
 ## From Self-organizing Search and Foraging to Cooperative Exploration and Transportation
 
 ### From Honeybee Colony Search and Foraging to Cooperative Exploration and Transportation
+
 1. [Group decision making in honey bee swarms.](https://link.springer.com/article/10.1007/s002650050536). Seeley, T.D., Visscher, P.K., Passino, K.M., *American Scientist*, 2006.
 2. [Group decision making in swarms of honey bees.](https://link.springer.com/article/10.1007/s002650050536). Seeley, T.D., Buhrman, S.C., *Behavioral Ecology and Sociobiology*, 1999.
 3. [Stop signals provide cross inhibition in collective decision-making by honeybee swarms.](https://www.science.org/doi/10.1126/science.1210361). Seeley, T.D., et al., *Science*, 2012.
