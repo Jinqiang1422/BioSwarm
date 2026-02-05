@@ -90,7 +90,7 @@ TBD
 
 ### From Honeybee Colony Search and Foraging to Cooperative Exploration
 
-1. [Group decision making in honey bee swarms](https://link.springer.com/article/10.1007/s002650050536). Seeley, T.D., Visscher, P.K., Passino, K.M., *American Scientist*, 2006.
+1. [Group decision making in honey bee swarms](https://www.researchgate.net/publication/242086450_Group_Decision_Making_in_Honey_Bee_Swarms). Seeley, T.D., Visscher, P.K., Passino, K.M., *American Scientist*, 2006.
 2. [Group decision making in swarms of honey bees](https://link.springer.com/article/10.1007/s002650050536). Seeley, T.D., Buhrman, S.C., *Behavioral Ecology and Sociobiology*, 1999.
 3. [Stop signals provide cross inhibition in collective decision-making by honeybee swarms](https://www.science.org/doi/10.1126/science.1210361). Seeley, T.D., et al., *Science*, 2012.
 4. [Multi-uav path planning considering multiple energy consumptions via an improved bee foraging learning particle swarm optimization algorithm](https://www.nature.com/articles/s41598-025-99001-z).  Qi, Y., Jiang, H., Huang, G., Yang, L., Wang, F., Xu, Y., *Scientific Reports*, 2025.
