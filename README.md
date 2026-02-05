@@ -100,7 +100,9 @@ TBD
 <div align=center>
 <img src='bee behavior.png' width=70%>
 </div>
+
 ### From Ant Colony Search and Foraging to Cooperative Exploration and Transportation
+
 1. [Multi-robot exploration and terrain coverage in an unknown environment](https://www.sciencedirect.com/science/article/abs/pii/S0921889011001783). Senthilkumar, K., Bharadwaj, K.K., *Robotics and Autonomous Systems*, 2012.
 2. [Ant-based multi-robot exploration in non-convex space without global connectivity constraints](https://ieeexplore.ieee.org/document/8796034).Cardona, G.A., Yanguas-Rojas, D., Arevalo-Castiblanco, M.F., Mojica-Nava, E., *In: 2019 18th European Control Conference (ECC)*, 2019.
 3. [Area exploration with a swarm of uavs combining deterministic chaotic ant colony mobility with position mpc.](https://ieeexplore.ieee.org/document/7991418). Rosalie, M., Dentler, J.E., Danoy, G., Bouvry, P., Kannan, S., Olivares-Mendez, M.A., Voos, H., *In: 2017 International Conference on Unmanned Aircraft Systems (ICUAS)*, 2017.
