@@ -90,9 +90,9 @@ TBD
 
 ### From Honeybee Colony Search and Foraging to Cooperative Exploration
 
-1. [Group decision making in honey bee swarms.](https://link.springer.com/article/10.1007/s002650050536). Seeley, T.D., Visscher, P.K., Passino, K.M., *American Scientist*, 2006.
-2. [Group decision making in swarms of honey bees.](https://link.springer.com/article/10.1007/s002650050536). Seeley, T.D., Buhrman, S.C., *Behavioral Ecology and Sociobiology*, 1999.
-3. [Stop signals provide cross inhibition in collective decision-making by honeybee swarms.](https://www.science.org/doi/10.1126/science.1210361). Seeley, T.D., et al., *Science*, 2012.
+1. [Group decision making in honey bee swarms](https://link.springer.com/article/10.1007/s002650050536). Seeley, T.D., Visscher, P.K., Passino, K.M., *American Scientist*, 2006.
+2. [Group decision making in swarms of honey bees](https://link.springer.com/article/10.1007/s002650050536). Seeley, T.D., Buhrman, S.C., *Behavioral Ecology and Sociobiology*, 1999.
+3. [Stop signals provide cross inhibition in collective decision-making by honeybee swarms](https://www.science.org/doi/10.1126/science.1210361). Seeley, T.D., et al., *Science*, 2012.
 4. [Multi-uav path planning considering multiple energy consumptions via an improved bee foraging learning particle swarm optimization algorithm](https://www.nature.com/articles/s41598-025-99001-z).  Qi, Y., Jiang, H., Huang, G., Yang, L., Wang, F., Xu, Y., *Scientific Reports*, 2025.
 5. [Nature-inspired self-organizing collision avoidance for drone swarm based on reward-modulated spiking neural network](https://www.cell.com/patterns/fulltext/S2666-3899(22)00236-7?dgcid=raven_jbs_aip_email). Zhao, F., Zeng, Y., Han, B., Fang, H., Zhao, Z., *Patterns*, 2022.
 6. [A Q-learning based multi-strategyintegrated artificial bee colony algorithm with application in unmanned vehicle path planning](https://www.sciencedirect.com/science/article/abs/pii/S0957417423018055).  Ni, X., Hu, W., Fan, Q., Cui, Y., Qi, C., *Expert Systems with Applications*, 2024.
