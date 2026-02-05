@@ -88,10 +88,18 @@ TBD
 
 ## From Self-organizing Search and Foraging to Cooperative Exploration and Transportation
 
+### From Honeybee Colony Search and Foraging to Cooperative Exploration and Transportation
+1. [Group decision making in honey bee swarms.](https://www.sciencedirect.com/science/article/abs/pii/S0921889011001783). Seeley, T.D., Visscher, P.K., Passino, K.M., *American Scientist*, 2006.
+2. [Group decision making in swarms of honey bees.](https://www.sciencedirect.com/science/article/abs/pii/S0921889011001783). Seeley, T.D., Buhrman, S.C., *Behavioral Ecology and Sociobiology*, 1999.
+3. [Stop signals provide cross inhibition in collective decision-making by honeybee swarms. ](https://www.sciencedirect.com/science/article/abs/pii/S0921889011001783). Seeley, T.D., et al., *Science*, 2012.
+4. [Multi-uav path planning considering multiple energy consumptions via an improved bee foraging learning particle swarm optimization algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0921889011001783).  Qi, Y., Jiang, H., Huang, G., Yang, L., Wang, F., Xu, Y., *Scientific Reports*, 2025.
+5. [Nature-inspired self-organizing collision avoidance for drone swarm based on reward-modulated spiking neural network](https://www.sciencedirect.com/science/article/abs/pii/S0921889011001783). Zhao, F., Zeng, Y., Han, B., Fang, H., Zhao, Z., *Patterns*, 2022.
+6. [A Q-learning based multi-strategyintegrated artificial bee colony algorithm with application in unmanned vehicle path planning](https://www.sciencedirect.com/science/article/abs/pii/S0921889011001783).  Ni, X., Hu, W., Fan, Q., Cui, Y., Qi, C., *Expert Systems with Applications*, 2024.
+7. [A new search scheme using multi-bee-colony elite learning method for unmanned aerial vehicles in unknown environmen](https://www.sciencedirect.com/science/article/abs/pii/S0921889011001783).  Yue, W., Li, C., Liu, Z., Li, L., Wang, L., * Optimal Control Applications and Methods*, 2022.
 <div align=center>
 <img src='bee behavior.png' width=70%>
 </div>
-
+### From Ant Colony Search and Foraging to Cooperative Exploration and Transportation
 1. [Multi-robot exploration and terrain coverage in an unknown environment](https://www.sciencedirect.com/science/article/abs/pii/S0921889011001783). Senthilkumar, K., Bharadwaj, K.K., *Robotics and Autonomous Systems*, 2012.
 2. [Ant-based multi-robot exploration in non-convex space without global connectivity constraints](https://ieeexplore.ieee.org/document/8796034).Cardona, G.A., Yanguas-Rojas, D., Arevalo-Castiblanco, M.F., Mojica-Nava, E., *In: 2019 18th European Control Conference (ECC)*, 2019.
 3. [Area exploration with a swarm of uavs combining deterministic chaotic ant colony mobility with position mpc.](https://ieeexplore.ieee.org/document/7991418). Rosalie, M., Dentler, J.E., Danoy, G., Bouvry, P., Kannan, S., Olivares-Mendez, M.A., Voos, H., *In: 2017 International Conference on Unmanned Aircraft Systems (ICUAS)*, 2017.
