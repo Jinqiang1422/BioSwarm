@@ -89,7 +89,9 @@ TBD
 ## From Self-organizing Search and Foraging to Cooperative Exploration and Transportation
 
 ### From Honeybee Colony Search and Foraging to Cooperative Exploration
-
+<div align=center>
+<img src='bee behavior.png' width=100%>
+</div>
 1. [Group decision making in honey bee swarms](https://www.researchgate.net/publication/242086450_Group_Decision_Making_in_Honey_Bee_Swarms). Seeley, T.D., Visscher, P.K., Passino, K.M., *American Scientist*, 2006.
 2. [Group decision making in swarms of honey bees](https://link.springer.com/article/10.1007/s002650050536). Seeley, T.D., Buhrman, S.C., *Behavioral Ecology and Sociobiology*, 1999.
 3. [Stop signals provide cross inhibition in collective decision-making by honeybee swarms](https://www.science.org/doi/10.1126/science.1210361). Seeley, T.D., et al., *Science*, 2012.
@@ -97,9 +99,8 @@ TBD
 5. [Nature-inspired self-organizing collision avoidance for drone swarm based on reward-modulated spiking neural network](https://www.cell.com/patterns/fulltext/S2666-3899(22)00236-7?dgcid=raven_jbs_aip_email). Zhao, F., Zeng, Y., Han, B., Fang, H., Zhao, Z., *Patterns*, 2022.
 6. [A Q-learning based multi-strategyintegrated artificial bee colony algorithm with application in unmanned vehicle path planning](https://www.sciencedirect.com/science/article/abs/pii/S0957417423018055).  Ni, X., Hu, W., Fan, Q., Cui, Y., Qi, C., *Expert Systems with Applications*, 2024.
 7. [A new search scheme using multi-bee-colony elite learning method for unmanned aerial vehicles in unknown environmen](https://onlinelibrary.wiley.com/doi/abs/10.1002/oca.2918).  Yue, W., Li, C., Liu, Z., Li, L., Wang, L., *Optimal Control Applications and Methods*, 2022.
-<div align=center>
-<img src='bee behavior.png' width=70%>
-</div>
+
+
 
 ### From Ant Colony Search and Foraging to Cooperative Exploration and Transportation
 
